@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Tools.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\90KM_GIT\EntitasUnity\Src\Tools\.idea\.idea.Tools\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
