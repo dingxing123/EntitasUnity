@@ -14,7 +14,6 @@ namespace UnityClient
         public void Initialize()
         {
             InitBehavic();
-
         }
         public void Execute()
         {
@@ -28,7 +27,7 @@ namespace UnityClient
         #region behaviac
         private bool InitBehavic()
         {
-            LogUtil.Info("InitBehavic");
+            LogUtil.Info("InitBehaviac");
 
             behaviac.Workspace.Instance.FilePath = HomePath.Instance.GetAbsolutePath("Tables/Behaviac/exported/");
             behaviac.Workspace.Instance.FileFormat = behaviac.Workspace.EFileFormat.EFF_xml;

@@ -12,7 +12,7 @@ bin/
 /Src/Bin
 /Resource/Unity/Library/
 /Resource/Unity/Temp/
-/Resource/Unity/Assets/Plugins/*.dll
+#/Resource/Unity/Assets/Plugins/*.dll
 /Resource/Unity/Assets/Plugins/*.mdb
 /Resource/Unity/Assets/Plugins/*.mdb.meta
 /Resource/Unity/Assets/StreamingAssets
